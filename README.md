@@ -37,9 +37,9 @@ www.youtube.com/theunknon
 
 `$ pkg install -y git python`
 
-`$ git clone https://github.com/th3unkn0n/TeleGram-Scraper.git`
+`$ git clone https://github.com/s1997r/Telegram-scraper.git`
 
-`$ cd TeleGram-Scraper`
+`$ cd Telegram-scraper`
 
 `$ chmod +x * && python3 setup.py`
 
@@ -55,6 +55,11 @@ www.youtube.com/theunknon
 * add users to your group
 
 `$ python3 add2group.py members.csv`
+
+* add user to group with interval of 900sec after 50 targets
+
+`$ python3 add2group1.py members.csv`
+
 
 ---
 
